@@ -1,2 +1,2 @@
 # Nauty-Traces
-Some program that deal with Nauty &amp; Traces.
+Some programs that deal with Nauty &amp; Traces.
